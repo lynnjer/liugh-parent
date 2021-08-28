@@ -13,4 +13,7 @@ public class TransactionServerApplicationTests {
 	public void contextLoads() {
 	}
 
+	public static void testpullrequest (){
+
+	}
 }
