@@ -16,4 +16,7 @@ public class TransactionServerApplicationTests {
 	public static void testpullrequest (){
 
 	}
+    public static void testpullrequestV2 (){
+
+    }
 }
